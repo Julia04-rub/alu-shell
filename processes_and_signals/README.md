@@ -1,1 +1,1 @@
-this is my first readme in thids project
+this is my first readme in this project 
